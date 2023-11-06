@@ -3,7 +3,7 @@ body {
 }
 .swiper {
     width: 200px;
-    height: 300px;
+    height: fit-content;
     border-radius: 20px;
 }
 .content {
@@ -16,5 +16,5 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #1BA090;
+    background-color: #fff;
 }
